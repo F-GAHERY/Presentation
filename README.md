@@ -6,7 +6,9 @@ Après une formation de Développeur fullstack Web et Web Mobile, je me lance en
 
 ## Mes projets sont à retrouver sur GitHub :
 
-<p><a href="https://github.com/F-GAHERY" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Cellmiix" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/célia-t-368194115" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<p>
+  <a href="https://github.com/F-GAHERY" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fabien-gahery" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ## Les techno pratiquées durant ma formation & sur mes projets perso :
@@ -35,6 +37,7 @@ Après une formation de Développeur fullstack Web et Web Mobile, je me lance en
 
 ### Côté database
 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ## Les technos que je souhaiterais apprendre :
 <p>
