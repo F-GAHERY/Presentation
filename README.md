@@ -1,6 +1,7 @@
 # Hello World ;.)
 
-<img align="left" width="200" height="200" src="picture-fab.jpg"/>
+![myface](picture-fab.jpg)
+<!-- <img align="left" width="200" height="200" src="picture-fab.jpg"/> -->
 
 Après une formation de Développeur fullstack Web et Web Mobile, je me lance en tant que Dev junior !
 
