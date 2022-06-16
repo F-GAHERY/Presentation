@@ -1,6 +1,6 @@
 # Hello World ;.)
 
-<img align="left" width="100" height="100" src="picture.jpg"/>
+<img align="left" width="200" height="200" src="picture.jpg"/>
 
 Après une formation de Développeur fullstack Web et Web Mobile, je me lance en tant que Dev junior !
 
